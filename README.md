@@ -1,5 +1,5 @@
-# Module_3_Challenge
-Arbitrage Opportunities in Bitcoin
+
+## Arbitrage Opportunities in Bitcoin
 ---
 ## Technologies
 This project leverages python 3.8.8 in jupyter lab 3.0.14 with the following packages:
